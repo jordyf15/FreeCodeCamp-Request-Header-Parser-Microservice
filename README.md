@@ -19,4 +19,4 @@ and system infos (from header User-Agent) for my device.
 5. Express version 4.17.1
 
 ## Note
-The source code here and with the on on repl are slightly different in the listener part since they were host on different server. This one are on localhost and on port 3000. Other than that everything else is the same.
+The source code here and with the one on repl are slightly different in the listener part since they were host on different server. This one are on localhost and on port 3000. Other than that everything else is the same.
