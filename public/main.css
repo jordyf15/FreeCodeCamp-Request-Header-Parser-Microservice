@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+    background-color: #d1ccc0;
+    font-family: Roboto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 100vh;
+}
+h1{
+    text-align: center;
+}
+.fa{
+    background: transparent;
+    border: none;
+}
+#container{
+    background-color: #ffda79;
+    text-align: center;
+}
+.user-stories{
+    text-align: left;
+}
+code{
+    background-color: #f7f1e3;
+}
+#footer{
+    text-align: center;
+}
+#whoami{
+    font-family: Roboto;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+    margin-bottom: 20px;
+    line-height: 35px;
+    background-color:#cd6133;
+}
