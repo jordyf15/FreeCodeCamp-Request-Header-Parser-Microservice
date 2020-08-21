@@ -16,7 +16,7 @@ The output are JSON Object with the following key/value pairs:
 1. ipaddress:"the ip address of the user"(String)
 2. language:"The request header accept language"(String)
 3. software: "The request header user-agent"(String)
-Example: 
+Example:  
 {"ipaddress":"::ffff:159.20.14.100","language":"en-US,en;q=0.5",
 "software":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0"}
 
